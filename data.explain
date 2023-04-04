@@ -1,3 +1,8 @@
+Below are csv fields
+RestaurantID, Cuisine, CostBracket, Rating, IsRecommender, OnBoardedTime
+Cusine is enum: 1-> SouthIndian, 2-> NorhtIndian, 3-> chinese.
+
+
 // Featured expensive
 ID1,1,5,5,True,1980-01-01
 ID2,2,5,5,True,1990-01-01
