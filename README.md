@@ -82,7 +82,7 @@ ID21 -> Rule 9
 ID22 -> Rule 9
 ID23 -> Rule 9
 ```
-**Note** no combination of sample user defined main.go and data in data.csv satified rule 7. So no explicit entry for rule7
+**Note**: No combination of sample user defined main.go and data in data.csv satified rule 7. So no explicit entry for rule7
 
 
  
