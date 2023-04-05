@@ -29,7 +29,7 @@ To test this code just run below code from root folder of the repo
 go run src/main/main.go
 ```
 
-Based on current user set in [main.go](https://github.com/tiwarishub/restaurant-recomm/blob/main/src/main/main.go) and data for restaurants present in [data.csv](https://github.com/tiwarishub/restaurant-recomm/blob/main/data.csv). It output is
+Based on current user set in [main.go](https://github.com/tiwarishub/restaurant-recomm/blob/main/src/main/main.go)(Primary cuisine NorthIndian(2) with cost bracket of 5 and seconday cuisine Chinese(3) with cost bracket of 2) and data for restaurants present in [data.csv](https://github.com/tiwarishub/restaurant-recomm/blob/main/data.csv). It output is
 ```
 ID2
 ID5
